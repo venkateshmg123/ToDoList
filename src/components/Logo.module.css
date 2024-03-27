@@ -1,0 +1,19 @@
+.logo{
+    display: flex;
+    justify-content: center;
+    padding: 1em;
+    position: relative;
+    text-align: center;
+    align-items: center;
+    gap: 1em;
+    font-size: large;
+    font-family: "Rubik Microbe", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  
+}
+
+img{
+    height: 1.5em;
+    width: 1.5em;
+}
