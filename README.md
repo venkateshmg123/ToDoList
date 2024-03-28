@@ -5,7 +5,7 @@ Git
 
 
 To run this :
-1.Open your terminal 
+1.Open your terminal /n
 2.Run "git clone https://github.com/venkateshmg123/ToDoList.git"
 3.cd ToDoList
 4.npm i
